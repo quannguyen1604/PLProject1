@@ -1,4 +1,4 @@
-package cannata;
+package nguyen.customer;
 
 public class CustomerApp {
 
